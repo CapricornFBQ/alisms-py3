@@ -1,0 +1,14 @@
+MANIFEST.in
+README.rst
+setup.py
+alisms_py3/__init__.py
+alisms_py3/runner.py
+alisms_py3.egg-info/PKG-INFO
+alisms_py3.egg-info/SOURCES.txt
+alisms_py3.egg-info/dependency_links.txt
+alisms_py3.egg-info/requires.txt
+alisms_py3.egg-info/top_level.txt
+alisms_py3/request/__init__.py
+alisms_py3/request/v20170525/QuerySendDetailsRequest.py
+alisms_py3/request/v20170525/SendSmsRequest.py
+alisms_py3/request/v20170525/__init__.py

@@ -1,0 +1,21 @@
+Metadata-Version: 1.1
+Name: alisms-py3
+Version: 1.0.0
+Summary: The dysmsapi module of Aliyun Python sdk.
+Home-page: UNKNOWN
+Author: Glittering
+Author-email: zhaoshichengzhao@sina.com
+License: Apache
+Description: # 阿里云短信sdk在python3中的实现
+        
+        用阿里云的sdk，适配了py3短信功能。
+        使用方法，见runner.py的if__name__=__main__部分。
+Keywords: aliyun,sdk,dysmsapi,sms,短信
+Platform: any
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Topic :: Software Development
